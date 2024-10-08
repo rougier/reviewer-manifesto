@@ -1,4 +1,5 @@
-**The Reviewer manifesto**, Nicolas P. Rougier, Oct. 2024
+**The Reviewer manifesto**, Nicolas P. Rougier, Oct. 2024  
+This document is licensed under a Creative Commons Attribution 4.0 International License
 
 #### 1. I will only review articles for which a preprint is available</b></summary>
      
